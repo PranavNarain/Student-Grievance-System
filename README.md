@@ -27,7 +27,7 @@ A simple, web-based **Student Grievance System** built with HTML, CSS, JavaScrip
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-grievance-system.git
+   git clone https://github.com/PranavNarain/Student-Grievance-System.git
    ```
 2. Import the `database.sql` file into your MySQL database to create the necessary tables.
 
